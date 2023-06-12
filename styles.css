@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+thead{
+	background-color:black;
+	color:white
+}
+#pp{
+	border-bottom:1px solid grey;
+}
